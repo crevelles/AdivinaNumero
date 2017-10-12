@@ -14,6 +14,8 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Cristóbal Revelles
+
     TextView textoIntentos;
     TextView textoPista;
     TextView numSec;
